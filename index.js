@@ -15,3 +15,11 @@ function johnLennonFacts(trivia){
   }
   return trivia;
 }
+
+function iLoveTheBeatles(n){
+  ary=[];
+  do {
+    ary.push("I love the Beatles!");
+    n++;
+  } while (n<15)
+}
