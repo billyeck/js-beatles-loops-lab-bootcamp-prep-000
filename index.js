@@ -17,7 +17,7 @@ function johnLennonFacts(trivia){
 }
 
 function iLoveTheBeatles(n){
-  ary=[];
+  var ary=[];
   do {
     ary.push("I love the Beatles!");
     n++;
