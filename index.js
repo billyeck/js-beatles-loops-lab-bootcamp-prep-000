@@ -6,3 +6,7 @@ function theBeatlesPlay(musicians, instruments){
   }
   return a;
 }
+
+function johnLennonFacts(trivia){
+  
+}
