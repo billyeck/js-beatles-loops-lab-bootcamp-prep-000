@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments){
 
 function johnLennonFacts(trivia){
   var b=0;
-  while (b<trivia.length-1){
+  while (b<trivia.length){
     trivia[b]=trivia[b]+"!!!"
     b++;
   }
